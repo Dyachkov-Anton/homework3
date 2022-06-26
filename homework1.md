@@ -1,8 +1,10 @@
 # **Инструкция по работе с системой контроля версий Git**
-Тут будет общее описание как работать с системой контроля версий Git
+Тут будет общее описание как работать с системой контроля версий Git.
 ## До непосредственной работы
 До того как начать работать с набором какого либо текста (кода) необходимо ввести следующие команды:
 
-1. git config --global user.name "Antonio"
-2. git config --global user.email dyachkov1984@inbox.ru
-3. git –version (git version 2.36.1.windows.1)
+1. git config --global user.name "Antonio".
+2. git config --global user.email dyachkov1984@inbox.ru.
+3. git –version (git version 2.36.1.windows.1).
+## Инициализация репозитория
+Вводим команду команду git init (инициализация папки).
