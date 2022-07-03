@@ -40,3 +40,6 @@
 -	git remote add origin https://github.com/Dyachkov-Anton/homework3.git
 -	git branch -M master
 -	git push -u origin master
+После внесения изменений в локальный репозиторий необходимо обновить и удаленный командой git push/
+После внесения изменений в локальный репозиторий необходимо обновить и удаленный командой git push.
+	После внесения изменений в удаленном репозитории необходимо ввести команду git pull
